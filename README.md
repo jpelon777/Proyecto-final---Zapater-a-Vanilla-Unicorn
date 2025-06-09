@@ -73,7 +73,13 @@ para poder mostrar la imagen correspondiente al producto
 ### Capturas del programa
 
 
-
+![](imagenes/imagen1.jpg)
+![](imagenes/imagen2.jpg)
+![](imagenes/imagen3.jpg)
+![](imagenes/imagen4.jpg)
+![](imagenes/imagen5.jpg)
+![](imagenes/imagen6.jpg)
+![](imagenes/imagen7.jpg)
 
 
 
