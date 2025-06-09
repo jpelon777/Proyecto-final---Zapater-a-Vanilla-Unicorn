@@ -4,6 +4,9 @@ Este repositorio contiene el proyecto final de la asignatura, en el que se crea 
 
 ---
 
+## Todos los .jar necesarios se encuentran en la carpeta `jar` que se en cuentra en el interior de la carpeta `ProyectoLoginZapateria`
+
+---
 
 ## ⚙️ Funcionamiento
 
