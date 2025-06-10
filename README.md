@@ -1,6 +1,8 @@
 # Proyecto-final---Zapater-a-Vanilla-Unicorn
 
-Este repositorio contiene el proyecto final de la asignatura, en el que se crea una interfaz que simulara un punto de venta o un control de almacen
+Este repositorio contiene el proyecto final de la asignatura, en el que se crea una interfaz que simulara un punto de venta o un control de almacen.
+La libreria que utilizamos fue "libreria de sonidos"
+El componente visual que utilizamos fue "Verificador captcha"
 
 ---
 
