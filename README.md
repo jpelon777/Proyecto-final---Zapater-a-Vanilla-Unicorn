@@ -94,7 +94,7 @@ para poder mostrar la imagen correspondiente al producto
 ## 🎥 Video de demostración
 
 Puedes ver una muestra en funcionamiento en el siguiente enlace:
-https://youtu.be/XDklru3ZMkA
+https://youtu.be/rVifIdS4TJQ?si=sD3mIjTQ5eYzffL4
 
 
 ---
